@@ -1,0 +1,13 @@
+.unberto {
+    padding-left: 130px;
+    padding-top: 20px;
+    width: 800px;
+}
+.encabezado{
+    font-family: 'Anton', sans-serif;
+    padding-left: 130px;
+    padding-top: 20px;
+}
+.body{
+    background-color: gainsboro;
+}
